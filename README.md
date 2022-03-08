@@ -331,38 +331,21 @@ img.iwak
 <body>
 
 	<div class="aqua">
-
 		<div class="air">	
 
-			<img src="https://blogger.googleusercontent.com/img/a/AVvXsEhky7rFI8mpz2vsyYdJFUTtx6ZFX4KNRRmBR598zQqFx_6wz8g7T3KfwcL4PB2qRQGjHxKoHFlHgp2vwUgspoLPkoxVEDvIp93WZEUgHCSzxlUhlQzAPv_kzKYi3sXnpptRKFMPVKy9jhP-U4oyBxnxa5duUCev2-MTIuFoh2Al1CTOW0M4b8PqT-MG=s525" class="iwak" alt="iwak">		
-
+			<img src="https://blogger.googleusercontent.com/img/a/AVvXsEhky7rFI8mpz2vsyYdJFUTtx6ZFX4KNRRmBR598zQqFx_6wz8g7T3KfwcL4PB2qRQGjHxKoHFlHgp2vwUgspoLPkoxVEDvIp93WZEUgHCSzxlUhlQzAPv_kzKYi3sXnpptRKFMPVKy9jhP-U4oyBxnxa5duUCev2-MTIuFoh2Al1CTOW0M4b8PqT-MG=s525" class="iwak" alt="iwak">
 		  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiBmdrt39jwN_n4RMJN-x0xn6s1_Nf2cuUpp6iEIKusOh5svxxsGW6dMRdb12YNkJm_LX8I_vwO0sQcniN6bEu4sYS4oaaSQnRkT_x6QLX75zbxPvnPinagzSL8l8LE-3aejeNV42TiFIe1CAfPUCYHr6jpxqPrC-7FxOf-hdzIXM0jpdHWmgNU9ENA=s790" class="iemas" alt="iemas">
-
 		  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiZ_yaBqm2cdv2D2dVBv5tSo-lFqewICfuwCgLE_qKwcPnKE9kJKPUkIkjGeLn2KMS--XR6la3iZi5AXfMImLBcfXK1C9XR4uLyLFAXxPak5MWb9SpbHpZBFbU0shRq2I64n0Yhzm-qqgGEcwSfn2YM2-a1zcsPXA1EJcIZFQSsn8GMJSF6TYNat_JT=s960" class="iemas" alt="iemas">
-
 		  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgAms_4jYC8in7vIE8c2fqE_d_fQrukedpPjEWfLF-WVI_3o9UI5aV7OaFvao_SKc4CAtOPyf477n7txPkRVT6QziE7vQLGHe_2uq6UpJFQgqHlwgemabk_LITPT-zlvSVdIlnArBJB4i3pCzUDSjLCx_sX4ZDlGQjasd1P7ABogP2KLpWDcDHCrQcG=s500" class="iemas" alt="iemas">
-
 		</div>
-
 	</div>
-
 	<div class="shadow"></div>
-
-
   </script>
-
 	<div dir="rtl" class="Font">ممواتكن...</div><div dir="rtl" class="Font">Loading...</div>
-
 </body>
-
 	<style>
-
 @import url('https://fonts.googleapis.com/css2?family=Amiri&display=swap');
-
 .Font {
-
   font-family: 'Amiri', serif;
-
 </style>
-
 </html>
