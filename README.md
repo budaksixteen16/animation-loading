@@ -1,118 +1,4 @@
 # 
-
-	left:50%;
-
-	transform: translate(-50%, -50%);
-
-	width: 300px;
-
-	height: 300px;
-
-	background: rgba(255,255,255,0.1);
-
-	border-radius: 50%;
-
-	border:4px solid black;
-
-	transform-origin: bottom center;
-
-	animation: animate 5s linear infinite;
-
-}
-
-.aqua:before
-
-{
-
-	content:'';
-
-	position: absolute;
-
-	top:10px;
-
-	left:8%; 
-
-	transform: rotate(-27deg) ; 
-
-	width: 40%;
-
-	height:30px;
-
-	background: rgba(113, 107, 107, 0.61);
-
-	border:4px solid #ffffff;
-
-	border-radius: 50%;
-
-}
-
-.aqua:after
-
-{
-
-	content:'';
-
-	position: absolute;
-
-	top: 17%;
-
-	left: 20%;
-
-	transform: rotate(-25deg);
-
-	width: 100px;
-
-	height: 30px;
-
-	background: rgba(255,255,255,0.05);
-
-	border-radius: 50%;
-
-}
-
-.air{
-
-	position: absolute;
-
-	top:50%;
-
-	left:5px;
-
-	right: 5px;
-
-	bottom:5px;
-
-	background: rgba(65,193,251,0.5);
-
-	border-bottom-right-radius: 150px;	
-
-	border-bottom-left-radius: 150px;
-
-	transform-origin: top center;	
-
-	animation: animateair 5s linear infinite;
-
-}
-
-.air:before{
-
-	content:'';
-
-	position: absolute;
-
-	top:-10px;
-
-	left:0;
-
-	width: 100%;
-
-	height: 20px;	
-
-	background: rgba(75, 203, 224, 0.97);
-
-	border-radius: 50%;
-
-}
 <html lang="ar-rMY">
 <head>
 	<meta charset="UTF-8">
@@ -291,7 +177,7 @@ img.iwak
 }
   </style>
   <script type="text/javascript">
-window.location = "https://rachmat.id";
+window.location = "https://budaksixteen16.github.io/Jadual-lengkap-jawi";
 </script>
 
 </head>
