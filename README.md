@@ -348,21 +348,6 @@ img.iwak
 
 	<div class="shadow"></div>
 
-  <script>
-
-  var jadual = confirm('دڠن مڽنتوه اوكي، اوق اكن دباوا كجادوال لڠكڤ جاوي. Dengan menyentuh OK, awak akan dibawa ke Jadual Lengkap Jawi.');
-
-  
-
-  if (jadual) {
-
-    windows.location('https://budaksixteen16.github.io/Jadual-lengkap-jawi');
-
-  } else {
-
-    windows.location('https://budaksixteen16.github.io/TV1');
-
-  }
 
   </script>
 
